@@ -11,7 +11,7 @@
     <a href="YOUR_LINKEDIN_URL">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    <a href="YOUR_PORTFOLIO_URL">
+    <a href="https://portfolio-web-red-mu.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio Website" />
     </a>
     <a href="mailto:lokeswarpj4@gmail.com">
@@ -66,15 +66,18 @@ I am a student and aspiring software developer taking my first steps into buildi
 
 ### 📂 Featured Projects
 
-Here are a few projects I am developing to solidify my understanding of programming and machine learning:
+Here is a curated showcase of projects I have designed and built, spanning Generative AI agents, computer vision, voice interfaces, and modern web applications:
 
-| Project | Description | Technologies | Repository Link |
+| Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project 1 Title]** | A foundational application built to practice algorithms and clean coding conventions. | `Python` / `C` | [View Repository](YOUR_PROJECT_REPOSITORY_URL_1) |
-| **[Project 2 Title]** | An introductory AI/ML experiment exploring data analysis and predictive modeling. | `Python` `ML` | [View Repository](YOUR_PROJECT_REPOSITORY_URL_2) |
-| **[Project 3 Title]** | A text processing or conversational utility exploring basic LLM capabilities and prompt design. | `Python` `LLMs` | [View Repository](YOUR_PROJECT_REPOSITORY_URL_3) |
+| **CareerPulse AI** | Autonomous AI Career Companion Agent platform engineered to empower students with career readiness, resume analysis, and interview prep. | `React` `JavaScript` `GenAI` `LLMs` | [Repository](https://github.com/Lokeswarpj/CareerPulse) • [Live Demo](https://ai-career-companion-agent-lokeswar-pj-s-projects.vercel.app) |
+| **Contactless Vital Sign Monitoring** | Real-time computer vision & signal processing system using Remote Photoplethysmography (rPPG) to estimate Heart Rate and Breathing Rate via webcam. | `Python` `OpenCV` `rPPG` `SciPy` | [Repository](https://github.com/Lokeswarpj/Contactless-Vital-Monitoring-System) |
+| **AegisVoice IT** | Autonomous voice-interactive IT-helpdesk agent integrating ElevenLabs Voice AI and ArmorIQ runtime intent governance for automated support. | `JavaScript` `ElevenLabs` `Voice AI` | [Repository](https://github.com/Lokeswarpj/AegisVoice) • [Live Demo](https://aegisvoice-five.vercel.app) |
+| **EcoTwin** | AI Planet Budget & sustainability simulation platform running autonomous planetary impact budgets with Gemini AI agents and 3D scenes. | `Python (FastAPI)` `TypeScript` `Gemini Live` `Three.js` | [Repository](https://github.com/Lokeswarpj/EcoTwin) |
+| **AdAura AI** | Unified ad analytics and campaign optimization dashboard designed for high-performance marketing tracking and insights. | `Next.js` `React` `TypeScript` `Tailwind` | [Repository](https://github.com/Lokeswarpj/AdAura_AI) • [Live Demo](https://lokeswarpj.github.io/AdAura_AI/) |
+| **Interactive 3D Portfolio** | Motion-rich personal developer portfolio featuring an interactive 3D avatar card, WebGL shaders, and smooth kinetic interactions. | `React` `TypeScript` `Three.js` `Tailwind` | [Repository](https://github.com/Lokeswarpj/Portfolio) • [Live Demo](https://portfolio-web-red-mu.vercel.app) |
 
-> 💡 *As I continue building and publishing new work, this section will be regularly updated.*
+> 💡 *Check out my [Repositories tab](https://github.com/Lokeswarpj?tab=repositories) for all my open-source experiments and coursework!*
 
 ---
 
@@ -108,7 +111,7 @@ Here are a few projects I am developing to solidify my understanding of programm
 If you would like to connect, talk about technology, or collaborate on beginner-friendly projects:
 
 - 💼 **LinkedIn**: [Connect on LinkedIn](YOUR_LINKEDIN_URL)
-- 🌐 **Portfolio**: [Visit My Website](YOUR_PORTFOLIO_URL)
+- 🌐 **Portfolio**: [portfolio-web-red-mu.vercel.app](https://portfolio-web-red-mu.vercel.app)
 - 🐙 **GitHub**: [@Lokeswarpj](https://github.com/Lokeswarpj)
 
 ---
