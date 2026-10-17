@@ -2,16 +2,16 @@
 
   # Hi there, I'm Lokeswar PJ 👋
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Student+%26+Aspiring+Developer;Passionate+about+Python%2C+C%2C+and+Java;Exploring+AI%2C+Machine+Learning+%26+LLMs;Building+foundations+one+line+at+a+time)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Student+%26+Aspiring+Developer;Python%2C+C%2C+Java+%26+SQL;Exploring+AI%2C+Gen+AI+%26+LLMs;Building+foundations+one+line+at+a+time)](https://git.io/typing-svg)
 
   <p>
     <a href="https://github.com/Lokeswarpj">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
     </a>
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="https://www.linkedin.com/in/lokeswar-pj-466676273">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
-    <a href="https://portfolio-web-red-mu.vercel.app">
+    <a href="https://loke-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio Website" />
     </a>
     <a href="mailto:lokeswarpj4@gmail.com">
@@ -25,31 +25,34 @@
 
 ### 🚀 About Me
 
-I am a student and aspiring software developer taking my first steps into building practical software. I enjoy breaking down complex problems, understanding core programming fundamentals, and actively exploring modern advancements in Artificial Intelligence and Machine Learning.
+I am a student and aspiring software developer taking my first steps into building practical software. I enjoy breaking down complex problems, understanding core programming fundamentals, and actively exploring modern advancements in Artificial Intelligence, Generative AI, and Machine Learning.
 
 - 🎓 **Status**: Student & Aspiring Developer
-- 💻 **Core Interests**: Software Design, AI Applications, Machine Learning, and Large Language Models
+- 💻 **Core Interests**: Software Design, Generative AI, Machine Learning, and Large Language Models
 - 🎯 **Focus**: Strengthening my computer science foundation and building projects from scratch
 - 🤝 **Collaboration**: Open to beginner-friendly discussions, study groups, and open-source learning
 
 #### 📚 Currently Learning
 - 🧠 **AI & ML**: Core principles of Machine Learning, data preprocessing, and model evaluation
-- 🤖 **LLMs**: Prompt engineering concepts, API integrations, and practical text processing
+- ✨ **Gen AI & LLMs**: Prompt engineering, autonomous agents, and LLM API integrations
+- 🗄️ **Databases**: Relational database querying and modeling with SQL
 - 🛠️ **Software Development**: Clean code practices, algorithm design in C/Java/Python, and version control workflows
 
 ---
 
 ### 🛠️ Tech Stack & Areas of Interest
 
-#### 💻 Programming Languages
+#### 💻 Programming & Query Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=1E1E1E" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 #### 🧠 Artificial Intelligence & Machine Learning (Fields of Interest)
 <p>
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Large_Language_Models_(LLMs)-007ACC?style=for-the-badge&logo=huggingface&logoColor=white" alt="Large Language Models" />
@@ -75,7 +78,7 @@ Here is a curated showcase of projects I have designed and built, spanning Gener
 | **AegisVoice IT** | Autonomous voice-interactive IT-helpdesk agent integrating ElevenLabs Voice AI and ArmorIQ runtime intent governance for automated support. | `JavaScript` `ElevenLabs` `Voice AI` | [Repository](https://github.com/Lokeswarpj/AegisVoice) • [Live Demo](https://aegisvoice-five.vercel.app) |
 | **EcoTwin** | AI Planet Budget & sustainability simulation platform running autonomous planetary impact budgets with Gemini AI agents and 3D scenes. | `Python (FastAPI)` `TypeScript` `Gemini Live` `Three.js` | [Repository](https://github.com/Lokeswarpj/EcoTwin) |
 | **AdAura AI** | Unified ad analytics and campaign optimization dashboard designed for high-performance marketing tracking and insights. | `Next.js` `React` `TypeScript` `Tailwind` | [Repository](https://github.com/Lokeswarpj/AdAura_AI) • [Live Demo](https://lokeswarpj.github.io/AdAura_AI/) |
-| **Interactive 3D Portfolio** | Motion-rich personal developer portfolio featuring an interactive 3D avatar card, WebGL shaders, and smooth kinetic interactions. | `React` `TypeScript` `Three.js` `Tailwind` | [Repository](https://github.com/Lokeswarpj/Portfolio) • [Live Demo](https://portfolio-web-red-mu.vercel.app) |
+| **Interactive 3D Portfolio** | Motion-rich personal developer portfolio featuring an interactive 3D avatar card, WebGL shaders, and smooth kinetic interactions. | `React` `TypeScript` `Three.js` `Tailwind` | [Repository](https://github.com/Lokeswarpj/Portfolio) • [Live Demo](https://loke-portfolio.vercel.app/) |
 
 > 💡 *Check out my [Repositories tab](https://github.com/Lokeswarpj?tab=repositories) for all my open-source experiments and coursework!*
 
@@ -110,8 +113,8 @@ Here is a curated showcase of projects I have designed and built, spanning Gener
 
 If you would like to connect, talk about technology, or collaborate on beginner-friendly projects:
 
-- 💼 **LinkedIn**: [Connect on LinkedIn](YOUR_LINKEDIN_URL)
-- 🌐 **Portfolio**: [portfolio-web-red-mu.vercel.app](https://portfolio-web-red-mu.vercel.app)
+- 💼 **LinkedIn**: [Lokeswar PJ](https://www.linkedin.com/in/lokeswar-pj-466676273)
+- 🌐 **Portfolio**: [loke-portfolio.vercel.app](https://loke-portfolio.vercel.app/)
 - 🐙 **GitHub**: [@Lokeswarpj](https://github.com/Lokeswarpj)
 
 ---
